@@ -4,6 +4,10 @@
 	font-family: 'Merriweather Sans', sans-serif;
 }
 
+h1,h2,h3,h4,h5,h6{
+	margin: 0;
+}
+
 /*------------------- HEADER -------------------*/
 
 .navbar-default{
@@ -53,12 +57,21 @@
 	margin: 0;
 }
 
+.lupa{
+	position: relative;
+}
+
+.btn-lupa{
+    position: absolute;
+    right: 15px;
+    bottom: 30px;	
+}
 
 
 /*------------------- SECTION POPULAR -------------------*/
 
 .popular{
-	padding: 40px 0;
+	padding: 40px 10px;
 }
 
 .madonna img,
@@ -69,8 +82,6 @@
 
 .madonna{
 	position: relative;
-    padding-left: 30px;
-    padding-right: 0px;	
 }
 
 .el-popular{
@@ -92,4 +103,28 @@
 }
 
 
+/*------------------- SECTION MUCHOS -------------------*/
 
+.red{
+	background-color: #E33139;
+	height: 1px;
+	margin: 0 0 10px 0;
+}
+
+.gris{
+	background-color: #7F7F7F;
+	height: 1px;
+	margin: 10px 0;
+}
+
+.stars{
+	color: #B1B1B1;
+}
+
+.stars .r-s{
+	color: #E62F40;	
+}
+
+.popular-news{
+	padding-bottom: 30px;
+}
