@@ -104,6 +104,14 @@ h1,h2,h3,h4,h5,h6{
 
 
 /*------------------- SECTION MUCHOS -------------------*/
+.red-p{
+	background-color: #E33139;
+	width: 40%;
+	height: 4px;
+	margin: 0;
+	position: relative;
+	top: 2px;	
+}
 
 .red{
 	background-color: #E33139;
@@ -128,3 +136,33 @@ h1,h2,h3,h4,h5,h6{
 .popular-news{
 	padding-bottom: 30px;
 }
+
+.may26 h6{
+	color: #E62F40;
+}
+
+.caja-f{
+	background-color: #2F4487;
+	width: 100%;
+	padding: 18px;
+}
+
+.caja-t{
+	background-color: #1D8FF0;
+	width: 100%;
+	padding: 18px;	
+}
+
+.caja-r{
+	background-color: #DE7709;
+	width: 100%;
+	padding: 18px;		
+}
+
+.facebook i,
+.twitter i,
+.rss i{
+	color: white;
+	font-size: 20px;
+}
+
