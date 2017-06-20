@@ -28,9 +28,68 @@
 .btn-search{
 	background-color: #E33139;
 	padding: 5px 15px;
+	box-shadow: 2px 2px 5px #999;	
 }
 
 .fa-search{
 	color: white;
 	font-size: 20px;
 }
+
+.navbar-toggle{
+    float: left;
+    margin-left: 15px;
+    border: none;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #E33139;
+    height: 3px;
+}
+
+.el-hr hr{
+	background-color: #E33139;
+	height: 1px;
+	margin: 0;
+}
+
+
+
+/*------------------- SECTION POPULAR -------------------*/
+
+.popular{
+	padding: 40px 0;
+}
+
+.madonna img,
+.ninos img,
+.woman img{
+	width: 100%;
+}
+
+.madonna{
+	position: relative;
+    padding-left: 30px;
+    padding-right: 0px;	
+}
+
+.el-popular{
+    position: absolute;
+    float: left;
+    background: #ea4748;
+    z-index: 3;
+    top: 0;
+    padding: 5px 30px;	
+}
+
+.el-popular p{
+	color: white;
+	padding-top: 5px;
+}
+
+.los-ninos{
+	padding-bottom: 20px;
+}
+
+
+
