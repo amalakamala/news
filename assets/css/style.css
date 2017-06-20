@@ -106,7 +106,7 @@ h1,h2,h3,h4,h5,h6{
 /*------------------- SECTION MUCHOS -------------------*/
 .red-p{
 	background-color: #E33139;
-	width: 40%;
+	width: 130px;
 	height: 4px;
 	margin: 0;
 	position: relative;
@@ -141,22 +141,30 @@ h1,h2,h3,h4,h5,h6{
 	color: #E62F40;
 }
 
+
+/*------------------- SECTION ARTICLE -------------------*/
+
+/*------- STAY CONNECTED ---------*/
+
 .caja-f{
 	background-color: #2F4487;
 	width: 100%;
 	padding: 18px;
+	margin-bottom: 10px;
 }
 
 .caja-t{
 	background-color: #1D8FF0;
 	width: 100%;
 	padding: 18px;	
+	margin-bottom: 10px;	
 }
 
 .caja-r{
 	background-color: #DE7709;
 	width: 100%;
-	padding: 18px;		
+	padding: 18px;	
+	margin-bottom: 10px;		
 }
 
 .facebook i,
@@ -166,3 +174,16 @@ h1,h2,h3,h4,h5,h6{
 	font-size: 20px;
 }
 
+.stay-connected p{
+	color:#3F3F3F;
+	font-size: 12px;
+}
+
+.stay-connected{
+	margin-bottom: 40px;
+}
+/*------- VIMEO VIDEOS ---------*/
+
+.video-skate{
+	margin: 40px 0;
+}
