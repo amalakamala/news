@@ -104,6 +104,9 @@ h1,h2,h3,h4,h5,h6{
 
 
 /*------------------- SECTION MUCHOS -------------------*/
+
+/*------- POPULAR HOT NEWS ---------*/
+
 .red-p{
 	background-color: #E33139;
 	width: 130px;
@@ -141,6 +144,30 @@ h1,h2,h3,h4,h5,h6{
 	color: #E62F40;
 }
 
+/*------- LIFE STYLE ---------*/
+
+.p-1 {
+	color: #3F3F3F;
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 24px			
+}
+
+.p-2 {
+	color: #E62F40;
+	font-size: 12px;
+	font-weight: 700;
+}
+
+.p-3 {
+	color: #7F7F7F;
+	font-size: 10px;
+	line-height: 24px	
+}
+
+.text-life-style{
+	padding: 10px 0;
+}
 
 /*------------------- SECTION ARTICLE -------------------*/
 
